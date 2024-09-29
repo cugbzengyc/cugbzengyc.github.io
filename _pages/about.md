@@ -21,3 +21,6 @@ Selective publications (* corresponding author):
 10. Zeng, Y. C., Xu, J. F., Ducea, M. N., Chen, J. L., Huang, F., and Zhang, L., 2019. Initial rifting of the Lhasa Terrane from Gondwana: Insights from the Permian (~262 Ma) amphibole‐rich lithospheric mantle‐derived Yawa basanitic intrusions in southern Tibet. Journal of Geophysical Research: Solid Earth, 124(3), 2564-2581.
 11. Zeng, Y. C., Chen, J. L., Xu, J. F., Wang, B. D., and Huang, F., 2016. Sediment melting during subduction initiation: Geochronological and geochemical evidence from the D arutso high‐M g andesites within ophiolite melange, central Tibet. Geochemistry, Geophysics, Geosystems, 17(12), 4859-4877.
 
+You can find my CV here: [Yunchuan Zeng's Curriculum Vitae](../assets/cv-yunchuan.pdf).
+[Email](zengyc@cugb.edu.cn)
+
