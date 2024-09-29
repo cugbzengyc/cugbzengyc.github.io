@@ -6,6 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Education
+
+Ph.D in Geochemistry, Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, 2012-2017, advisor: Jifeng Xu and Jianlin Chen
+B.S. in Geology (Resource Prospecting), China University of Geosciences, Beijing, 2008-2012, advisor: Zhidan Zhao
+Academic position:
+
+Postdoc in China University of Geosciences, Beijing, 2017/07-2019/10, advisor: Xuanxue Mo
+Visiting scholar in University of Arizona, USA, 2018/06-2019/05, advisor: Mihai N Ducea
+Assitant Professor in China University of Geosciences, Beijing, 2019/10-2019/12
+Associate Professor in China University of Geosciences, Beijing, 2020/01-present
+
 I am an associate professor of igneous petrology and geochemistry at the [School of Earth Sciences and Resources] (http://www.sesr.cugb.edu.cn/), [China University of Geosciences, Beijing] (http://www.cugb.edu.cn/). My research group integrates field geology with a variety of geochemical techniques to the petrogenesis (source, magma storage, evolution, and eruption) of igneous rocks on the Tibetan Plateau. Our goal is to deepen our understanding of how this vast and highest landmass on Earth was formed. Specifically, I focus on the interplay between lithospheric processes (from oceanic subduction to continental collision), magmatism, and surface responses. My research is primarily supported by funding from the National Science Foundation of China, the Ministry of Science and Technology of China, and my university. I have published over 20 peer-reviewed papers in leading Earth science journals such as Geology, GRL, JGR-SE, GCA, Tectonics, Journal of Petrology, American Mineralogist, GSA Bulletin, and G-cubed. (Some representative publications are listed below, and a complete list is available on my Google Scholar and ORCID profiles, linked on the left of this page.) Since 2024, I have served as an associate editor of GSA Bulletin. If you are interested in joining our group, please feel free to contact me.
 
 Selective publications (* corresponding author):
